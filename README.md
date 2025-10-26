@@ -1,37 +1,55 @@
-# Hey there 👋 I'm Masoud
+# Hey there 👋 I'm Masoud Gholypour
 
-🎯 **Networking & System Administration Enthusiast** | 🧰 Embedded Developer | 🌐 Web Dev for fun  
+🎯 **Networking & System Administration Enthusiast** | 🧰 Embedded Developer | 🌐 Web Dev for fun
 💡 I love automating things, breaking networks (ethically), and keeping systems alive.
 
 ---
 
 ### ⚙️ My Tech Toolbox
-**Languages:** Python, C, C++, C#, Bash, SQL, JavaScript  
-**Skills:** Networking, Linux Administration, Embedded Systems, Web Development  
+
+**Languages:** Python, C, C++, C#, Bash, SQL, JavaScript
+**Skills:** Networking, Linux Administration, Embedded Systems, Web Development
 **Interests:** Cybersecurity, Penetration Testing, DevOps
 
 ---
 
 ### 🚀 Featured Projects
-- 🖥️ [**Network Lab Automation**](#) – Python scripts to configure routers/switches in Packet Tracer  
-- ⚙️ [**C++ Sensor Controller**](#) – Embedded project for managing IoT data  
-- 🌍 [**Portfolio Website**](#) – My personal site built with HTML, CSS, JS  
-- 🧩 [**Linux Tools Collection**](#) – Bash scripts for daily sysadmin tasks  
+
+* 🖥️ [**dotfiles-i3-setup**](https://github.com/masoudgholypour/dotfiles-i3-setup) — portable Linux configs for instant i3 setups
+* ⚙️ [**cpp-university-projects**](https://github.com/masoudgholypour/cpp-university-projects) — C++ coursework: bank manager, phonebook (CLI & Qt)
+* 🌍 [**netlearn-demo**](https://github.com/masoudgholypour/netlearn-demo) — Persian networking learning website with admin and auth
+* ✍️ [**single-file-markdown-editor**](https://github.com/masoudgholypour/single-file-markdown-editor) — a full markdown editor inside one HTML file
+* 🔐 [**rat-demo-output**](https://github.com/masoudgholypour/rat-demo-output) — safe educational RAT demo (no code shared)
+* 🧾 [**pentest-notes**](https://github.com/masoudgholypour/pentest-notes) — my structured pentesting and learning notes
 
 ---
 
-### 🧠 Currently Learning
-- 🧰 Linux hardening & shell scripting  
-- 🕵️‍♂️ Penetration testing basics (Kali, Metasploit, Nmap)  
-- 🧬 Network automation with Python
+### 🧠 Currently Exploring
+
+* Network automation with Python
+* Linux hardening and advanced Bash scripting
+* Web security and ethical hacking basics
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/masoudgholypour)
-[![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:your@email.com)
+### 🧩 My Work Philosophy
+
+I like building things that make systems simpler and more secure.
+From shell scripts that fix problems before coffee to web tools that teach others how networks breathe.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudgholypour&show_icons=true&theme=tokyonight)
+### 📫 Connect With Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail\&logoColor=white)](mailto:your.email@example.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-masoudgholypour-black?logo=github)](https://github.com/masoudgholypour)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@yourusername-blue?logo=telegram)](https://t.me/yourusername)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masoudgholypour\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudgholypour\&layout=compact\&theme=tokyonight)
+
+---
+
+⭐ *“Code it. Break it. Fix it better.”*
