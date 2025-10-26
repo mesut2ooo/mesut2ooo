@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey there 👋 I'm Masoud
 
-<!--
-**mesut2ooo/mesut2ooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Networking & System Administration Enthusiast** | 🧰 Embedded Developer | 🌐 Web Dev for fun  
+💡 I love automating things, breaking networks (ethically), and keeping systems alive.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ My Tech Toolbox
+**Languages:** Python, C, C++, C#, Bash, SQL, JavaScript  
+**Skills:** Networking, Linux Administration, Embedded Systems, Web Development  
+**Interests:** Cybersecurity, Penetration Testing, DevOps
+
+---
+
+### 🚀 Featured Projects
+- 🖥️ [**Network Lab Automation**](#) – Python scripts to configure routers/switches in Packet Tracer  
+- ⚙️ [**C++ Sensor Controller**](#) – Embedded project for managing IoT data  
+- 🌍 [**Portfolio Website**](#) – My personal site built with HTML, CSS, JS  
+- 🧩 [**Linux Tools Collection**](#) – Bash scripts for daily sysadmin tasks  
+
+---
+
+### 🧠 Currently Learning
+- 🧰 Linux hardening & shell scripting  
+- 🕵️‍♂️ Penetration testing basics (Kali, Metasploit, Nmap)  
+- 🧬 Network automation with Python
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/masoudgholypour)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:your@email.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudgholypour&show_icons=true&theme=tokyonight)
