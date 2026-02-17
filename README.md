@@ -15,12 +15,10 @@
 
 ### 🚀 Featured Projects
 
-* 🖥️ [**dotfiles-i3-setup**](https://github.com/masoudgholypour/dotfiles-i3-setup) — portable Linux configs for instant i3 setups
-* ⚙️ [**cpp-university-projects**](https://github.com/masoudgholypour/cpp-university-projects) — C++ coursework: bank manager, phonebook (CLI & Qt)
-* 🌍 [**netlearn-demo**](https://github.com/masoudgholypour/netlearn-demo) — Persian networking learning website with admin and auth
-* ✍️ [**single-file-markdown-editor**](https://github.com/masoudgholypour/single-file-markdown-editor) — a full markdown editor inside one HTML file
 * 🔐 [**rat-demo-output**](https://github.com/masoudgholypour/rat-demo-output) — safe educational RAT demo (no code shared)
-* 🧾 [**pentest-notes**](https://github.com/masoudgholypour/pentest-notes) — my structured pentesting and learning notes
+* ✍️ [**single-file-markdown-editor**](https://github.com/masoudgholypour/single-file-markdown-editor) — a full markdown editor inside one HTML file
+* 🌍 [**netlearn-demo**](https://github.com/masoudgholypour/netlearn-demo) — Persian networking learning website with admin and auth
+* ⚙️ [**cpp-university-projects**](https://github.com/masoudgholypour/cpp-university-projects) — C++ coursework: bank manager, phonebook (CLI & Qt)
 
 ---
 
