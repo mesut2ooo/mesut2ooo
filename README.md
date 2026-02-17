@@ -41,7 +41,7 @@ From shell scripts that fix problems before coffee to web tools that teach other
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail\&logoColor=white)](mailto:masoudgholypour2000@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-mesut2ooo-black?logo=github)](https://github.com/mesut2ooo)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@mesut2000-blue?logo=telegram)]
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@mesut2000-blue?logo=telegram)](https://t.me/mesut2000)
 
 
 ---
