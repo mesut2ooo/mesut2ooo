@@ -41,9 +41,9 @@ From shell scripts that fix problems before coffee to web tools that teach other
 
 ### 📫 Connect With Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail\&logoColor=white)](mailto:your.email@example.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-masoudgholypour-black?logo=github)](https://github.com/masoudgholypour)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@yourusername-blue?logo=telegram)](https://t.me/yourusername)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail\&logoColor=white)](mailto:masoudgholypour@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-masoudgholypour-black?logo=github)](https://github.com/mesut2ooo)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@yourusername-blue?logo=telegram)](https://t.me/mesut2000)
 
 ---
 
