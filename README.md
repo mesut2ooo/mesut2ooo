@@ -42,13 +42,9 @@ From shell scripts that fix problems before coffee to web tools that teach other
 ### 📫 Connect With Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail\&logoColor=white)](mailto:masoudgholypour2000@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-masoudgholypour-black?logo=github)](https://github.com/mesut2ooo)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@yourusername-blue?logo=telegram)](https://t.me/mesut2000)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-mesut2ooo-black?logo=github)](https://github.com/mesut2ooo)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@mesut2000-blue?logo=telegram)](https://t.me/mesut2000)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesut2ooo\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesut2ooo\&layout=compact\&theme=tokyonight)
 
 ---
 
